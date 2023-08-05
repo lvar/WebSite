@@ -36,10 +36,10 @@ organizations:
     url: https://www.fcien.edu.uy/
 education:
   courses:
-    - course: MSc in Biological Sciences
+    - course: MSc in Biological Sciences, Zoology Specialization
       institution: Facultad de Ciencias, Universidad de la República
       year: 2018
-    - course: BSc in Biological Sciences
+    - course: BSc in Biological Sciences, Paleontology Specialization
       institution: Facultad de Ciencias, Universidad de la República
       year: 2014
 superuser: true
