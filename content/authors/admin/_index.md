@@ -50,5 +50,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a paleontologist from Uruguay, South America. I am currently doing my PhD on macroevolutionary and macroecological aspects of fossil xenarthrans, one of the most important groups of the South American native megafauna. I also work using 3D models of fossil bones to answer various questions about these animals, like what they ate or how hard they bit. I am interested in the conservation and valorization of fossil collections and the use of new technologies in these activities.
 {style="text-align: justify;"}
