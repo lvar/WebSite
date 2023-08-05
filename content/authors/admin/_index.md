@@ -1,6 +1,4 @@
 ---
-title: Luciano Varela
-role: PhD candidate studying xenarthran paleobiology
 avatar_filename: avatar.jpg
 bio: My research interests include macroevolution, macroecology, and Cenozoic
   fossil mammals.
@@ -36,17 +34,19 @@ organizations:
     url: https://www.fcien.edu.uy/
 education:
   courses:
-    - course: MSc in Biological Sciences, Zoology Specialization
+    - course: M.Sc., Biological Sciences, Zoology Specialization
       institution: Facultad de Ciencias, Universidad de la República
       year: 2018
-    - course: BSc in Biological Sciences, Paleontology Specialization
+    - course: B.Sc. (Hons), Biological Sciences, Paleontology Specialization
       institution: Facultad de Ciencias, Universidad de la República
       year: 2014
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: PhD candidate studying xenarthran paleobiology
 highlight_name: true
+title: Luciano Varela
 first_name: Alice
 email: ""
 ---
