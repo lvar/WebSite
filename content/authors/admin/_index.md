@@ -1,7 +1,7 @@
 ---
 title: Luciano Varela
 role: PhD candidate studying xenarthran paleobiology
-avatar_filename: lv.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include macroevolution, macroecology, and Cenozoic
   fossil mammals.
 interests:
