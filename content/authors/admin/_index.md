@@ -16,7 +16,7 @@ social:
     link: https://orcid.org/0000-0002-9481-6558
   - icon: graduation-cap
     icon_pack: fas
-    link: https://https://scholar.google.com.uy/citations?user=WTgkoU8AAAAJ
+    link: https://scholar.google.com.uy/citations?user=WTgkoU8AAAAJ
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Luciano-Varela
