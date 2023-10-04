@@ -20,7 +20,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Luciano-Varela
-    label: Follow me on Twitter
     display:
       header: true
   - icon: github
