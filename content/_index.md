@@ -67,12 +67,10 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: lvarela[at]fcien.edu.uy
-      appointment_url: 'https://www.fcien.edu.uy'
+      email: lvarela{at}fcien.edu.uy
       address:
         street: Iguá 4225
         city: Montevideo
-        region: CA
         postcode: '1400'
         country: Uruguay
         country_code: UY
