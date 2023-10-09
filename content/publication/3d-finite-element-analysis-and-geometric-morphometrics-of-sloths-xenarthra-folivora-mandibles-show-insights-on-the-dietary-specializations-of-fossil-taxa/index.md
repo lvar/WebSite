@@ -3,7 +3,7 @@ title: 3D finite element analysis and geometric morphometrics of sloths
   (Xenarthra, Folivora) mandibles show insights on the dietary specializations
   of fossil taxa
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Varela
   - L.
