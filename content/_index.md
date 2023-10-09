@@ -32,7 +32,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '4'
+      columns: '2'
       view: card
   - block: portfolio
     id: projects
