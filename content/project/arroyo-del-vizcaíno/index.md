@@ -4,17 +4,13 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2014-10-09T06:28:00.000Z
-external_link: ""
+external_link: https://www.arroyodelvizcaino.org/en/
 url_slides: ""
 title: Arroyo del Vizcaíno
 subtitle: Outreach project related to the fossil site and collection in southern Uruguay
 tags:
   - Outreach
-links:
-  - icon: ""
-    icon_pack: null
-    name: ""
-    url: https://www.arroyodelvizcaino.org/en/
+links: []
 image:
   caption: ""
   focal_point: Smart
