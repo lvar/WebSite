@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Baleka
   - S.
-  - "*Varela"
-  - L.
+  - Varela
+  - L.*
   - Tambusso
   - P.S.
   - Paijmans
