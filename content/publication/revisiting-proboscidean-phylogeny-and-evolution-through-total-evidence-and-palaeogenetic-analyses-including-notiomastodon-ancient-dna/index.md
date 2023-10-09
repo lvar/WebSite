@@ -40,7 +40,7 @@ abstract: The extinct Gomphotheriidae is the only proboscidean family that
   toward aDNA analyses on Pleistocene samples from subtropical regions and
   provide a framework for proboscidean evolution.
 draft: false
-featured: true
+featured: false
 image:
   filename: cover.tif.jpg
   focal_point: Smart
