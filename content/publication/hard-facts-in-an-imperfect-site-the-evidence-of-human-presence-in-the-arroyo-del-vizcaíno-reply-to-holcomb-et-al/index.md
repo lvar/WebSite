@@ -1,6 +1,6 @@
 ---
 title: "Hard Facts in an Imperfect Site: The Evidence of Human Presence in the
-  Arroyo del Vizcaíno. Reply to Holcomb et al."
+  Arroyo del Vizcaíno. Reply to Holcomb et al"
 publication_types:
   - "2"
 authors:
