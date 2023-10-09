@@ -4,7 +4,7 @@ title: "The inner ear anatomy of glyptodonts and pampatheres (Xenarthra,
 publication_types:
   - "2"
 authors:
-  - 10.	Tambusso
+  - Tambusso
   - P. S.
   - Varela
   - L.
