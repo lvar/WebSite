@@ -3,7 +3,7 @@ title: "Occurrence of the ground sloth Nothrotheriops (Xenarthra, Folivora) in
   the Late Pleistocene of Uruguay: new information on its dietary and habitat
   preferences based on stable isotope analysis"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Varela
   - L.
