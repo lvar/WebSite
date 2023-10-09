@@ -51,7 +51,7 @@ abstract: Sloths, like other xenarthrans, are an extremely interesting group of
   an island dispersing ancestor and a probable re-ingression to South America by
   a clade that originated in Central or North America.
 draft: false
-featured: true
+featured: false
 image:
   filename: syy058f1.jpeg
   focal_point: Smart
