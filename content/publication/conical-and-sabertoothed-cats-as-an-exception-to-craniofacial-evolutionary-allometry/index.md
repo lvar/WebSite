@@ -4,7 +4,7 @@ title: Conical and sabertoothed cats as an exception to craniofacial
 publication_types:
   - "2"
 authors:
-  - 2.	Tamagnini
+  - Tamagnini
   - D.
   - Michaud
   - M.
