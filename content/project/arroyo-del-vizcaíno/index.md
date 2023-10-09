@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: ""
+summary: Outreach project related to the fossil site and collection in southern Uruguay.
 url_video: ""
 date: 2014-10-09T06:28:00.000Z
 external_link: https://www.arroyodelvizcaino.org/en/
