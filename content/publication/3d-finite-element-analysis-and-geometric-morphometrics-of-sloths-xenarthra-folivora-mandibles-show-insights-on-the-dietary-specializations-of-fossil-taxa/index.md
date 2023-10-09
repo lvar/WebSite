@@ -41,7 +41,7 @@ abstract: Sloths are represented today only by two distantly-related small,
   involvement in sexual display rather than in food processing, acquisition, or
   other strenuous activities.
 draft: false
-featured: false
+featured: true
 image:
   filename: 1-s2.0-s0895981123002560-gr2.jpg
   focal_point: Smart
