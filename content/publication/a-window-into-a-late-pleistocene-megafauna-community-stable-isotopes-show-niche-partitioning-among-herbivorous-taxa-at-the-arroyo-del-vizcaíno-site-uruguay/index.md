@@ -40,7 +40,7 @@ abstract: "The analysis of stable isotopes on fossil mammals has become a widely
   outstanding number of giant species, before their extinction at the
   Pleistocene-Holocene transition."
 draft: false
-featured: false
+featured: true
 image:
   filename: graphabstract.jpg
   focal_point: Smart
