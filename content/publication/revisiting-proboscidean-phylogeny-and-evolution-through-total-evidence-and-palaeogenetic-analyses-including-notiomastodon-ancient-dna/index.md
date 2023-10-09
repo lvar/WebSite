@@ -45,5 +45,5 @@ image:
   filename: cover.tif.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-10-09T04:23:28.123Z
+date: 2022-10-09T04:23:00.000Z
 ---
