@@ -68,7 +68,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: lvarela{at}fcien.edu.uy
+      email: lvarela[at]fcien.edu.uy
       address:
         street: Iguá 4225
         city: Montevideo
