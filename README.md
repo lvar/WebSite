@@ -1,4 +1,4 @@
-Personal website built using:
+Personal [website](https://lvarela.netlify.app/) built using:
 
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
