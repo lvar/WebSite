@@ -4,7 +4,7 @@ title: Late Miocene mammalian burrows in the Camacho Formation of Uruguay reveal
 publication_types:
   - "2"
 authors:
-  - 3.	Varela
+  - Varela
   - L.
   - Martínez-Blanco
   - X.
