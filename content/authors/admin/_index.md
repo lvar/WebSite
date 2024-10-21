@@ -33,6 +33,9 @@ organizations:
     url: https://www.fcien.edu.uy/
 education:
   courses:
+    - course: Ph.D., Biological Sciences
+      institution: Facultad de Ciencias, Universidad de la República
+      year: 2023
     - course: "M.Sc., Biological Sciences, specialization: Zoology"
       institution: Facultad de Ciencias, Universidad de la República
       year: 2018
@@ -43,11 +46,11 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: PhD candidate studying xenarthran paleobiology
+role: Researcher studying xenarthran paleobiology
 highlight_name: true
 title: Luciano Varela
 first_name: Alice
 email: ""
 ---
-I am a paleontologist from Uruguay, South America. I am currently doing my PhD on macroevolutionary and macroecological aspects of fossil xenarthrans, one of the most important groups of the South American native megafauna. I also work using 3D models of fossil bones to answer various questions about these animals, like what they ate or how hard they bit. I am interested in the conservation and valorization of fossil collections and the use of new technologies in these activities.
+I am a paleontologist from Uruguay, South America. I study macroevolutionary and macroecological aspects of fossil xenarthrans, one of the most important groups of the South American native megafauna. I also work using 3D models of fossil bones to answer various questions about these animals, like what they ate or how hard they bit. I am interested in the conservation and valorization of fossil collections and the use of new technologies in these activities.
 {style="text-align: justify;"}
