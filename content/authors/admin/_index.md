@@ -5,6 +5,7 @@ bio: My research interests include macroevolution, macroecology, and Cenozoic
 interests:
   - Fossil Mammals
   - Xenarthra
+  - Paleoecology
   - Extinctions
   - Evolution
 social:
