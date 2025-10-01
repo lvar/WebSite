@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Varela
-  - Luciano; Richard A. Fariña
+  - Fariña
 doi: 10.1098/rspb.2025.0309
 publication: Proceedings B
 abstract: Understanding the role of megamammals in shaping terrestrial
